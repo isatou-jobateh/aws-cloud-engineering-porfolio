@@ -33,7 +33,6 @@ In this lab, I explored the fundamentals of AWS Identity and Access Management (
 
 ## Lab Evidence
 
-- Notes
 - Screenshots
 - AWS Skill Builder Completion Certificate
 
